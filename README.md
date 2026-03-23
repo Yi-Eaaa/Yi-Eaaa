@@ -14,9 +14,17 @@
 - Efficient Information Retrieval  
 - Multi-agent reinforcement learning
 
+<div align="center">
+<img src="./Meme.png" alt="meme">
+</div>
 
 ## 📊 GitHub Stats
-![Visitor Count](https://profile-counter.glitch.me/{Yi-Eaaa}/count.svg)
+
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Yi-Eaaa&theme=highcontrast" alt="GitHub Streak">
+</div>
+
 
 
 ## 📫 Contact
