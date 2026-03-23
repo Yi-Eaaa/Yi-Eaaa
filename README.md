@@ -1,6 +1,6 @@
 &nbsp;
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Unlimited+progress!!!&center=true&size=27" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Infinite+Progress!!!&center=true&size=27" alt="Typing SVG" />
 </div>
 
 ## 👋 Hi, I'm Hongyi
@@ -14,7 +14,7 @@
 - 🔗 [GraphScope](https://github.com/alibaba/GraphScope.git) — A One-Stop Large-Scale Graph Computing System from Alibaba
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yi-Eaaa&show_icons=true&theme=transparent" alt="Workflow" height="130">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=transparent" alt="Workflow" height="130">
 </div>
 
