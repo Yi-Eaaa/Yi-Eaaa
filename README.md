@@ -14,7 +14,7 @@
 - 🔗 [GraphScope](https://github.com/alibaba/GraphScope.git) — A One-Stop Large-Scale Graph Computing System from Alibaba
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yi-Eaaa&show_icons=true&theme=transparent" alt="Workflow" height="130">
-  <div style="display:inline-block" width="20%"></div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=transparent" alt="Workflow" height="130">
 </div>
 
