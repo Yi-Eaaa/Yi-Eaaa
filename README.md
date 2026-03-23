@@ -12,7 +12,8 @@
 - 🔗 [PAssistant](https://github.com/Yi-Eaaa/PAssistant) — A personal assistant system based on RAG and LLM memory
 - 🔗 [GraphScope](https://github.com/alibaba/GraphScope.git) — A One-Stop Large-Scale Graph Computing System from Alibaba
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=tokyonight" alt="Workflow">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yi-Eaaa&show_icons=true&theme=transparent" alt="Workflow" height="160" style="margin-right:10;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=transparent" alt="Workflow" height="160" style="margin-left:10;">
 </div>
 
 
@@ -27,7 +28,7 @@
 <div align="center">
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
 
 <div align="center">
   <img src="./chibang_left.png" width="18%" style="vertical-align: top;"/>
@@ -42,4 +43,4 @@
 
 ## 📫 Contact
 - Email: iyhong@foxmail.com
-- Wechat: Yi_Eaaa
+- Wechat: `Yi_Eaaa`
