@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Hongyi
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Unlimited progress!!&center=true&size=27" alt="Typing SVG" />
+</div>
+
+## 👋 Hi, I'm Hongyi
 
 🎓 CS @ Southeast University, School of Computer Science and Engineering  
 🔬 Research: Retrieval-Augmented Generation, Agent 
@@ -7,6 +11,9 @@
 ## 🚀 Projects
 - 🔗 [PAssistant](https://github.com/Yi-Eaaa/PAssistant) — A personal assistant system based on RAG and LLM memory
 - 🔗 [GraphScope](https://github.com/alibaba/GraphScope.git) — A One-Stop Large-Scale Graph Computing System from Alibaba
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=tokyonight" alt="Workflow">
+</div>
 
 
 ## 🧠 Research Interests
@@ -15,17 +22,24 @@
 - Multi-agent reinforcement learning
 
 <div align="center">
-<img src="./Meme.png" alt="meme">
+<img src="./Meme.png" alt="meme" width="100%">
+</div>
+<div align="center">
 </div>
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Yi-Eaaa&theme=highcontrast" alt="GitHub Streak">
+  <img src="./chibang_left.png" width="18%" style="vertical-align: top;"/>
+  <img src="https://streak-stats.demolab.com/?user=Yi-Eaaa&theme=highcontrast" width="60%"/>
+  <img src="./chibang_right.png" width="18%" style="vertical-align: top;"/>
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Yi-Eaaa/Yi-Eaaa/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Streak">
+</div>
 
 
 ## 📫 Contact
 - Email: iyhong@foxmail.com
+- Wechat: Yi_Eaaa
