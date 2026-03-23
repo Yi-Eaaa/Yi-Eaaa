@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Unlimited+progress!!!&center=true&size=27" alt="Typing SVG" />
 </div>
-
 ## 👋 Hi, I'm Hongyi
 
 🎓 CS @ Southeast University, School of Computer Science and Engineering  
@@ -31,9 +30,9 @@
 ## 📊 GitHub Contributions
 
 <div align="center">
-  <img src="./chibang_left.png" width="18%" style="vertical-align: top;"/>
-  <img src="https://streak-stats.demolab.com/?user=Yi-Eaaa&theme=highcontrast" width="60%"/>
-  <img src="./chibang_right.png" width="18%" style="vertical-align: top;"/>
+  <img src="./chibang_left.png" width="18%" align="top"/>
+  <img src="https://streak-stats.demolab.com/?user=Yi-Eaaa&theme=algolia" width="60%"/>
+  <img src="./chibang_right.png" width="18%" align="top"/>
 </div>
 
 <div align="center">
