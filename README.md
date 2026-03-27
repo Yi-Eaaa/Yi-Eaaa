@@ -12,11 +12,11 @@
 ## 🚀 Projects
 - 🔗 [PAssistant](https://github.com/Yi-Eaaa/PAssistant) — A personal assistant system based on RAG and LLM memory
 - 🔗 [GraphScope](https://github.com/alibaba/GraphScope.git) — A One-Stop Large-Scale Graph Computing System from Alibaba
-<div align="center">
+<!-- <div align="center"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yi-Eaaa&show_icons=true&theme=transparent" alt="Workflow" height="130">
   &nbsp;&nbsp; -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=transparent" alt="Workflow" height="130">
-</div>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yi-Eaaa&layout=compact&theme=transparent" alt="Workflow" height="130">
+</div> -->
 
 ## 🧠 Research Interests
 - Retrieval-Augmented Generation (RAG)
