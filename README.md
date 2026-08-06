@@ -1,9 +1,9 @@
 &nbsp;
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Infinite+Progress!!!&center=true&size=27" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=Hi!+I+am+Yi+Hong+:);Infinite+Progress!!!&center=true&size=27" alt="Typing SVG" />
 </div>
 
-## 👋 Hi, I'm Hongyi
+## 👋 Hi, I'm Yi Hong
 
 🎓 CS @ Southeast University, School of Computer Science and Engineering  
 🔬 Research: Retrieval-Augmented Generation, Agent 
